@@ -21,6 +21,7 @@ We use styleGAN2 as the basis for test case generation. That is, we first train 
 
 ### 1.0  Install
 This implementation is tested with Anaconda Python  3.8(ubuntu18.04), PyTorch  1.8.1 and Cuda  11.1
+Need xx.pkl for pre-trained GAN.
 
 ### 2.0  Generation
 Test case generation using styleGAN2, by run
@@ -93,6 +94,7 @@ Terminal:
     SEA_S: xx
 ```
 ### 5.0 SEA Selection and Retrain
+![selection-retrain](https://github.com/dummySeatOD/SeatOD/blob/main/picture/selection-result-pic.pngs)
 Use SEA system for test sample selection：
 ```
     cd SEA
