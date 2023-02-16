@@ -16,6 +16,9 @@ where TestCaseGeneration/ is the test sample generation module, Model/ is the mo
 
 ## Test Case Generation
 We use styleGAN2 as the basis for test case generation. That is, we first train a GAN with the Kitti dataset for feature visualization. 
+
+![generation](https://github.com/dummySeatOD/SeatOD/blob/main/picture/generation.png)
+
 ### 1.0  Install
 This implementation is tested with Anaconda Python  3.8(ubuntu18.04), PyTorch  1.8.1 and Cuda  11.1
 
