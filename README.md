@@ -1,5 +1,5 @@
 # SeatOD
-This repository contains code for the paper SeatOD
+This repository contains code for the paper SEAT-OD: Semantic-aware Testing for Object Detection Systems
 
 Document Organization：
 ```
