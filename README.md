@@ -1,7 +1,7 @@
 # SeatOD
 This repository contains code for the paper SEAT-OD: Semantic-aware Testing for Object Detection Systems.
 
-!(https://github.com/dummySeatOD/SeatOD/blob/main/picture/system.png)
+![system-overview](https://github.com/dummySeatOD/SeatOD/blob/main/picture/system.png)
 
 Document Organization：
 ```
