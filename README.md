@@ -94,7 +94,9 @@ Terminal:
     SEA_S: xx
 ```
 ### 5.0 SEA Selection and Retrain
-![selection-retrain](https://github.com/dummySeatOD/SeatOD/blob/main/picture/selection-result-pic.pngs)
+![selection](https://github.com/dummySeatOD/SeatOD/blob/main/picture/selection-result-pic.png)
+
+
 Use SEA system for test sample selection：
 ```
     cd SEA
